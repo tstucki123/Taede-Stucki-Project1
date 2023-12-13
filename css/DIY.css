@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #d6cd20;
+   background-color: black;
+}
+
+h1, h2 {
+    color: #d6cd20;
+}
+
+ul {
+    list-style-type: square;
+}
+
+#video, #image, #list, #tableau {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #d6cd20;
+    background-color: #131212;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #000000;
+    color: #d6cd20;
+}
